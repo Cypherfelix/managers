@@ -2,7 +2,9 @@ import "./single.scss";
 
 const Single = () => {
   return (
-    <div className="single"></div>
+    <div className="single">
+      Single
+    </div>
   );
 };
 
